@@ -2,6 +2,8 @@
 
 A real-time multi-modal interview analysis system that combines pose detection, speech-to-text, and emotion recognition to provide comprehensive behavioral insights during interviews.
 
+https://github.com/user-attachments/assets/37b1328e-86e3-49c8-8e85-d2cb1971c330
+
 ## 🚀 Quick Start
 
 ### Performance Optimized Versions (NEW!)
