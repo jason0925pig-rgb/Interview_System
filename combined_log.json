@@ -1,0 +1,207 @@
+[
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.0,
+    "actions": [
+      "lean_forward"
+    ],
+    "texts": [],
+    "facial_emotions": [],
+    "voice_emotions": []
+  },
+  {
+    "time": "00:00",
+    "timestamp_seconds": 1.0,
+    "actions": [
+      "lean_forward"
+    ],
+    "texts": [],
+    "facial_emotions": [],
+    "voice_emotions": []
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.0,
+    "actions": [
+      "fidget_hands",
+      "lean_forward"
+    ],
+    "texts": [],
+    "facial_emotions": [],
+    "voice_emotions": []
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.0,
+    "actions": [
+      "fidget_hands",
+      "lean_forward"
+    ],
+    "texts": [],
+    "facial_emotions": [],
+    "voice_emotions": []
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.0,
+    "actions": [
+      "lean_forward"
+    ],
+    "texts": [],
+    "facial_emotions": [],
+    "voice_emotions": []
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 5.0,
+    "actions": [
+      "lean_forward"
+    ],
+    "texts": [
+      "Hello!"
+    ],
+    "facial_emotions": [],
+    "voice_emotions": [
+      "calm"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.0,
+    "actions": [
+      "lean_forward"
+    ],
+    "texts": [],
+    "facial_emotions": [],
+    "voice_emotions": []
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.0,
+    "actions": [
+      "lean_forward"
+    ],
+    "texts": [],
+    "facial_emotions": [],
+    "voice_emotions": []
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.0,
+    "actions": [
+      "lean_forward"
+    ],
+    "texts": [],
+    "facial_emotions": [],
+    "voice_emotions": []
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.0,
+    "actions": [
+      "lean_forward"
+    ],
+    "texts": [
+      "or so hot."
+    ],
+    "facial_emotions": [],
+    "voice_emotions": [
+      "calm"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 10.0,
+    "actions": [
+      "lean_forward"
+    ],
+    "texts": [],
+    "facial_emotions": [],
+    "voice_emotions": []
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.0,
+    "actions": [
+      "lean_forward"
+    ],
+    "texts": [],
+    "facial_emotions": [],
+    "voice_emotions": []
+  },
+  {
+    "time": "00:12",
+    "timestamp_seconds": 12.0,
+    "actions": [
+      "lean_forward"
+    ],
+    "texts": [],
+    "facial_emotions": [],
+    "voice_emotions": []
+  },
+  {
+    "time": "00:13",
+    "timestamp_seconds": 13.0,
+    "actions": [
+      "lean_forward"
+    ],
+    "texts": [],
+    "facial_emotions": [],
+    "voice_emotions": []
+  },
+  {
+    "time": "00:13",
+    "timestamp_seconds": 14.0,
+    "actions": [
+      "lean_forward"
+    ],
+    "texts": [
+      "You are such a genius."
+    ],
+    "facial_emotions": [],
+    "voice_emotions": [
+      "calm"
+    ]
+  },
+  {
+    "time": "00:15",
+    "timestamp_seconds": 15.0,
+    "actions": [
+      "lean_forward"
+    ],
+    "texts": [],
+    "facial_emotions": [],
+    "voice_emotions": []
+  },
+  {
+    "time": "00:16",
+    "timestamp_seconds": 16.0,
+    "actions": [
+      "lean_forward"
+    ],
+    "texts": [],
+    "facial_emotions": [],
+    "voice_emotions": []
+  },
+  {
+    "time": "00:17",
+    "timestamp_seconds": 17.0,
+    "actions": [
+      "fidget_hands",
+      "lean_forward"
+    ],
+    "texts": [],
+    "facial_emotions": [],
+    "voice_emotions": []
+  },
+  {
+    "time": "00:18",
+    "timestamp_seconds": 18.0,
+    "actions": [
+      "lean_forward"
+    ],
+    "texts": [],
+    "facial_emotions": [],
+    "voice_emotions": []
+  }
+]

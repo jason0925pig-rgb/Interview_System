@@ -1,0 +1,2326 @@
+[
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.0,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.1,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.17,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.24,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.29,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.35,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.4,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.46,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.51,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.57,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.62,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.67,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.73,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.8,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.85,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.9,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.95,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:00",
+    "timestamp_seconds": 1.0,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.06,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.11,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.17,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.23,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.29,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.34,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.39,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.46,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.51,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.57,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.62,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.67,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.72,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.77,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.82,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.88,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.93,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.98,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.02,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.08,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.13,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.18,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.23,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.27,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.33,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.38,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.43,
+    "actions": [
+      "fidget_hands",
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.48,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.53,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.57,
+    "actions": [
+      "fidget_hands",
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.63,
+    "actions": [
+      "fidget_hands",
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.68,
+    "actions": [
+      "fidget_hands",
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.73,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.78,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.82,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.87,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.92,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.98,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.03,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.07,
+    "actions": [
+      "fidget_hands",
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.13,
+    "actions": [
+      "fidget_hands",
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.18,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.23,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.28,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.34,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.39,
+    "actions": [
+      "fidget_hands",
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.45,
+    "actions": [
+      "fidget_hands",
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.51,
+    "actions": [
+      "fidget_hands",
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.57,
+    "actions": [
+      "fidget_hands",
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.63,
+    "actions": [
+      "fidget_hands",
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.68,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.73,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.79,
+    "actions": [
+      "fidget_hands",
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.84,
+    "actions": [
+      "fidget_hands",
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.9,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.96,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.01,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.07,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.12,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.18,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.23,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.3,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.37,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.44,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.52,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.57,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.63,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.68,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.76,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.82,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.88,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.94,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 5.0,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.05,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.11,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.17,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.22,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.28,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.33,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.38,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.45,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.5,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.56,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.62,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.68,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.72,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.77,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.82,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.87,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.92,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.97,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.02,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.07,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.11,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.17,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.22,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.27,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.33,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.38,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.43,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.48,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.53,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.58,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.63,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.68,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.74,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.8,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.85,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.91,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.97,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.03,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.09,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.13,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.19,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.25,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.3,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.36,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.41,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.47,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.53,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.59,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.65,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.71,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.77,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.83,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.88,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.93,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.99,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.05,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.1,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.17,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.22,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.27,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.33,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.38,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.43,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.49,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.55,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.61,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.66,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.74,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.79,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.84,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.9,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.95,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.01,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.07,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.12,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.17,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.22,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.28,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.34,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.39,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.44,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.5,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.55,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.61,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.67,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.72,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.77,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.83,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.88,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.94,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 10.0,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.06,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.12,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.16,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.22,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.27,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.32,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.37,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.43,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.48,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.53,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.58,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.63,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.68,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.73,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.78,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.83,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.88,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.93,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.98,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.03,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.08,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.13,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.18,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.23,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.28,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.33,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.39,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.44,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.5,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.56,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.61,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.67,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.72,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.78,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.84,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.9,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.95,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:12",
+    "timestamp_seconds": 12.01,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:12",
+    "timestamp_seconds": 12.06,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:12",
+    "timestamp_seconds": 12.12,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:12",
+    "timestamp_seconds": 12.17,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:12",
+    "timestamp_seconds": 12.23,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:12",
+    "timestamp_seconds": 12.29,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:12",
+    "timestamp_seconds": 12.35,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:12",
+    "timestamp_seconds": 12.41,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:12",
+    "timestamp_seconds": 12.47,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:12",
+    "timestamp_seconds": 12.52,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:12",
+    "timestamp_seconds": 12.58,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:12",
+    "timestamp_seconds": 12.64,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:12",
+    "timestamp_seconds": 12.7,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:12",
+    "timestamp_seconds": 12.74,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:12",
+    "timestamp_seconds": 12.8,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:12",
+    "timestamp_seconds": 12.85,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:12",
+    "timestamp_seconds": 12.9,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:12",
+    "timestamp_seconds": 12.96,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:13",
+    "timestamp_seconds": 13.02,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:13",
+    "timestamp_seconds": 13.08,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:13",
+    "timestamp_seconds": 13.13,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:13",
+    "timestamp_seconds": 13.19,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:13",
+    "timestamp_seconds": 13.24,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:13",
+    "timestamp_seconds": 13.29,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:13",
+    "timestamp_seconds": 13.35,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:13",
+    "timestamp_seconds": 13.4,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:13",
+    "timestamp_seconds": 13.45,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:13",
+    "timestamp_seconds": 13.51,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:13",
+    "timestamp_seconds": 13.57,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:13",
+    "timestamp_seconds": 13.63,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:13",
+    "timestamp_seconds": 13.69,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:13",
+    "timestamp_seconds": 13.74,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:13",
+    "timestamp_seconds": 13.8,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:13",
+    "timestamp_seconds": 13.85,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:13",
+    "timestamp_seconds": 13.9,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:13",
+    "timestamp_seconds": 13.95,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:13",
+    "timestamp_seconds": 14.0,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:14",
+    "timestamp_seconds": 14.05,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:14",
+    "timestamp_seconds": 14.11,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:14",
+    "timestamp_seconds": 14.18,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:14",
+    "timestamp_seconds": 14.25,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:14",
+    "timestamp_seconds": 14.31,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:14",
+    "timestamp_seconds": 14.38,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:14",
+    "timestamp_seconds": 14.44,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:14",
+    "timestamp_seconds": 14.49,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:14",
+    "timestamp_seconds": 14.55,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:14",
+    "timestamp_seconds": 14.6,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:14",
+    "timestamp_seconds": 14.67,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:14",
+    "timestamp_seconds": 14.71,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:14",
+    "timestamp_seconds": 14.76,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:14",
+    "timestamp_seconds": 14.8,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:14",
+    "timestamp_seconds": 14.86,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:14",
+    "timestamp_seconds": 14.92,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:14",
+    "timestamp_seconds": 14.97,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:15",
+    "timestamp_seconds": 15.03,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:15",
+    "timestamp_seconds": 15.08,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:15",
+    "timestamp_seconds": 15.13,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:15",
+    "timestamp_seconds": 15.18,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:15",
+    "timestamp_seconds": 15.23,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:15",
+    "timestamp_seconds": 15.28,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:15",
+    "timestamp_seconds": 15.33,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:15",
+    "timestamp_seconds": 15.38,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:15",
+    "timestamp_seconds": 15.44,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:15",
+    "timestamp_seconds": 15.49,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:15",
+    "timestamp_seconds": 15.55,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:15",
+    "timestamp_seconds": 15.59,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:15",
+    "timestamp_seconds": 15.64,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:15",
+    "timestamp_seconds": 15.7,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:15",
+    "timestamp_seconds": 15.74,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:15",
+    "timestamp_seconds": 15.79,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:15",
+    "timestamp_seconds": 15.84,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:15",
+    "timestamp_seconds": 15.9,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:15",
+    "timestamp_seconds": 15.96,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:16",
+    "timestamp_seconds": 16.01,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:16",
+    "timestamp_seconds": 16.07,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:16",
+    "timestamp_seconds": 16.13,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:16",
+    "timestamp_seconds": 16.18,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:16",
+    "timestamp_seconds": 16.23,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:16",
+    "timestamp_seconds": 16.29,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:16",
+    "timestamp_seconds": 16.34,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:16",
+    "timestamp_seconds": 16.39,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:16",
+    "timestamp_seconds": 16.44,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:16",
+    "timestamp_seconds": 16.49,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:16",
+    "timestamp_seconds": 16.55,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:16",
+    "timestamp_seconds": 16.6,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:16",
+    "timestamp_seconds": 16.66,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:16",
+    "timestamp_seconds": 16.71,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:16",
+    "timestamp_seconds": 16.77,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:16",
+    "timestamp_seconds": 16.82,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:16",
+    "timestamp_seconds": 16.88,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:16",
+    "timestamp_seconds": 16.93,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:16",
+    "timestamp_seconds": 16.98,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:17",
+    "timestamp_seconds": 17.04,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:17",
+    "timestamp_seconds": 17.09,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:17",
+    "timestamp_seconds": 17.15,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:17",
+    "timestamp_seconds": 17.2,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:17",
+    "timestamp_seconds": 17.26,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:17",
+    "timestamp_seconds": 17.32,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:17",
+    "timestamp_seconds": 17.37,
+    "actions": [
+      "fidget_hands",
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:17",
+    "timestamp_seconds": 17.43,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:17",
+    "timestamp_seconds": 17.48,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:17",
+    "timestamp_seconds": 17.54,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:17",
+    "timestamp_seconds": 17.59,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:17",
+    "timestamp_seconds": 17.65,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:17",
+    "timestamp_seconds": 17.7,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:17",
+    "timestamp_seconds": 17.76,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:17",
+    "timestamp_seconds": 17.81,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:17",
+    "timestamp_seconds": 17.87,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:17",
+    "timestamp_seconds": 17.93,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:17",
+    "timestamp_seconds": 17.98,
+    "actions": [
+      "lean_forward"
+    ]
+  },
+  {
+    "time": "00:18",
+    "timestamp_seconds": 18.04,
+    "actions": [
+      "lean_forward"
+    ]
+  }
+]

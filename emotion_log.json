@@ -1,0 +1,97 @@
+[
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.0,
+    "emotion": "neutral"
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.92,
+    "emotion": "neutral"
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.97,
+    "emotion": "neutral"
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.93,
+    "emotion": "sad"
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.57,
+    "emotion": "neutral"
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.58,
+    "emotion": "neutral"
+  },
+  {
+    "time": "00:12",
+    "timestamp_seconds": 12.56,
+    "emotion": "neutral"
+  },
+  {
+    "time": "00:13",
+    "timestamp_seconds": 13.55,
+    "emotion": "happy"
+  },
+  {
+    "time": "00:14",
+    "timestamp_seconds": 14.53,
+    "emotion": "happy"
+  },
+  {
+    "time": "00:15",
+    "timestamp_seconds": 15.55,
+    "emotion": "happy"
+  },
+  {
+    "time": "00:16",
+    "timestamp_seconds": 16.56,
+    "emotion": "happy"
+  },
+  {
+    "time": "00:17",
+    "timestamp_seconds": 17.53,
+    "emotion": "happy"
+  },
+  {
+    "time": "00:18",
+    "timestamp_seconds": 18.53,
+    "emotion": "happy"
+  },
+  {
+    "time": "00:19",
+    "timestamp_seconds": 19.52,
+    "emotion": "happy"
+  },
+  {
+    "time": "00:20",
+    "timestamp_seconds": 20.54,
+    "emotion": "happy"
+  },
+  {
+    "time": "00:21",
+    "timestamp_seconds": 21.64,
+    "emotion": "happy"
+  },
+  {
+    "time": "00:22",
+    "timestamp_seconds": 22.67,
+    "emotion": "happy"
+  },
+  {
+    "time": "00:23",
+    "timestamp_seconds": 23.65,
+    "emotion": "neutral"
+  },
+  {
+    "time": "00:24",
+    "timestamp_seconds": 24.57,
+    "emotion": "neutral"
+  }
+]
