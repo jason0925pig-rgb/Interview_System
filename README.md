@@ -402,7 +402,7 @@ This project is available for educational and research purposes.
 If you use this system in your research, please cite:
 ```
 Interview System - Real-time Multi-modal Interview Analysis
-https://github.com/yb235/Interview_System
+https://github.com/jason0925pig-rgb/Interview_System
 ```
 
 ---
