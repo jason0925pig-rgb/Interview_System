@@ -18,8 +18,6 @@ python interview_system_onnx_full.py
 ```
 *Delivers 35-60 FPS with ONNX Runtime and hardware acceleration*
 
-[📖 Full Performance Guide](docs/PERFORMANCE_OPTIMIZED_USAGE.md)
-
 ---
 
 ## ⚡ Performance Improvements
@@ -38,8 +36,6 @@ python interview_system_onnx_full.py
 - ✅ 60% faster startup (10s → 3-5s)
 - ✅ Configurable performance vs accuracy
 - ✅ GPU acceleration (CUDA, DirectML)
-
-[📊 Performance Results & Benchmarks](docs/performance_improvement/performance_results.md)
 
 ---
 
@@ -228,36 +224,11 @@ All versions produce JSON logs with timestamps:
 
 ## Performance Benchmarking
 
-Test your system's performance:
-
-```bash
-python benchmark_performance.py
-```
-
 **Output:**
 - YOLOv8n-pose vs YOLO11m-pose comparison
 - PyTorch vs ONNX comparison
 - CPU vs GPU performance
 - Improvement percentages
-
----
-
-## Documentation
-
-### Performance Optimization
-- [📖 Performance Optimized Usage Guide](docs/PERFORMANCE_OPTIMIZED_USAGE.md)
-- [📊 Performance Results & Benchmarks](docs/performance_improvement/performance_results.md)
-- [📈 Performance Analysis](docs/performance_improvement/01_performance_analysis.md)
-- [🔧 Improvement Plan](docs/performance_improvement/02_improvement_plan.md)
-- [💻 Code Examples](docs/performance_improvement/03_code_examples.md)
-
-### Video Processing
-- [🏗️ Architecture Overview](docs/video_processing/01_architecture.md)
-- [🤖 Model Inference](docs/video_processing/02_model_inference.md)
-- [🎯 Motion Recognition](docs/video_processing/03_motion_recognition.md)
-- [➕ Adding New Actions](docs/video_processing/04_adding_new_actions.md)
-- [⚙️ Configuration](docs/video_processing/05_configuration.md)
-- [⚡ ONNX Acceleration](docs/video_processing/06_onnx_acceleration.md)
 
 ---
 
@@ -369,25 +340,6 @@ python benchmark_performance.py
 | Emotion Frequency | Fixes v2-v3 | - | Low |
 | **Combined (CPU)** | **3-4x** | **300-350 MB** | **Low** |
 | **Combined (GPU)** | **4-6x** | **400-600 MB** | **Low** |
-
----
-
-## Contributing
-
-### Adding New Actions
-See: [Adding New Actions Guide](docs/video_processing/04_adding_new_actions.md)
-
-### Improving Performance
-1. Profile with `benchmark_performance.py`
-2. Implement optimization
-3. Measure improvement
-4. Document in performance docs
-
-### Documentation
-- Update relevant markdown files
-- Include performance metrics
-- Provide code examples
-- Note any trade-offs
 
 ---
 
